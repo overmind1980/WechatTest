@@ -1,0 +1,3 @@
+<!-- audio.wxml -->
+
+<button type="primary" bindtap="playPiano" class="key">渣渣钢琴</button>

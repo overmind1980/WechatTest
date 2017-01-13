@@ -1,0 +1,22 @@
+<!-- audio.wxml -->
+<audio src="http://oeasy.org/wav/A.wav" id="A4"></audio>
+<audio src="http://oeasy.org/wav/B.wav" id="B4"></audio>
+<audio src="http://oeasy.org/wav/C.wav" id="C4"></audio>
+<audio src="http://oeasy.org/wav/D.wav" id="D4"></audio>
+<audio src="http://oeasy.org/wav/E.wav" id="E4"></audio>
+<audio src="http://oeasy.org/wav/F.wav" id="F4"></audio>
+<audio src="http://oeasy.org/wav/G.wav" id="G4"></audio>
+<audio src="http://oeasy.org/wav/G2.wav" id="G3"></audio>
+<audio src="http://oeasy.org/wav/A2.wav" id="A3"></audio>
+<audio src="http://oeasy.org/wav/B2.wav" id="B3"></audio>
+
+<button type="primary" bindtap="playG3" class="key">G3</button>
+<button type="primary" bindtap="playA3" class="key">A3</button>
+<button type="primary" bindtap="playB3" class="key">B3</button>
+<button type="primary" bindtap="playC4" class="key">C4</button>
+<button type="primary" bindtap="playD4" class="key">D4</button>
+<button type="primary" bindtap="playE4" class="key">E4</button>
+<button type="primary" bindtap="playF4" class="key">F4</button>
+<button type="primary" bindtap="playG4" class="key">G4</button>
+<button type="primary" bindtap="playA4" class="key">A4</button>
+<button type="primary" bindtap="playB4" class="key">B4</button>
