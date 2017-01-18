@@ -2,7 +2,8 @@
   "pages":[
     "pages/index/index",
     "pages/logs/logs",
-    "pages/piano/index"
+    "pages/piano/index",
+    "pages/calculator/index"
   ],
   "window":{
     "backgroundTextStyle":"light",
