@@ -1,0 +1,19 @@
+
+<button bindtap="TouchC" class="key clear">C</button>
+
+<view class="operand">{{inputValue}}</view>
+<button type="primary" bindtap="Touch1" class="key">1</button>
+<button type="primary" bindtap="Touch2" class="key">2</button>
+<button type="primary" bindtap="Touch3" class="key">3</button>
+<button type="primary" bindtap="Touch4" class="key">4</button>
+<button type="primary" bindtap="Touch5" class="key">5</button>
+<button type="primary" bindtap="Touch6" class="key">6</button>
+<button type="primary" bindtap="Touch7" class="key">7</button>
+<button type="primary" bindtap="Touch8" class="key">8</button>
+<button type="primary" bindtap="Touch9" class="key">9</button>
+<button type="primary" bindtap="Touch0" class="key">0</button>
+<button type="primary" bindtap="TouchPlus" class="key">+</button>
+<button type="primary" bindtap="TouchSubtract" class="key">-</button>
+<button type="primary" bindtap="TouchMultiple" class="key">*</button>
+<button type="primary" bindtap="TouchDivide" class="key">/</button>
+<button type="primary" bindtap="TouchEqual" class="key">=</button>

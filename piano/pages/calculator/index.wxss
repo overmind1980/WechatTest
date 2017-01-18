@@ -1,0 +1,18 @@
+.clear{
+  background-color: red;
+}
+.key{
+  width:30%;
+  height:50px;
+  float:left;
+  font-family: consolas
+}
+.operand{
+  font-size:33px;
+  text-align: right;
+  height:50px;
+  margin-right:66px;
+  font-family: consolas;
+  width:66%;
+  float:left;
+}
